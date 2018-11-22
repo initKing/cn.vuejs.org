@@ -250,7 +250,7 @@ Vue.component('blog-post', {
 })
 ```
 
-来验证 `author` prop 的值是否是通过 `new Person` 创建的。
+来验证 `author` prop 的值是通过 `new Person` 创建的。
 
 ## 非 Prop 的特性
 
